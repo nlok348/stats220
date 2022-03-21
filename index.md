@@ -19,6 +19,4 @@ spiderman_original <- image_blank(width = 500, height = 500, color = "#FFFFFF") 
 image_append(c(photo, spiderman_original))
 
 ### *Information about meme*
-* STATS 220 Assignment 1 required an original meme
-* I thought about it long and hard but I do not have a creative bone in my body
-* The meme I ended up with is an adaptation of a pre-existing meme
+Part A of STATS 220 Assignment 1 required the creation of an original meme. I thought about it _a lot_ , but since I don't have a single creative bone in my body the best I could come up with was an adaptation of a pre-existing meme. 
